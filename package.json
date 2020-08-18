@@ -1,0 +1,29 @@
+{
+  "name": "passport-index-api",
+  "version": "1.0.0",
+  "description": "passport index api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeysucksat/passport-index-api.git"
+  },
+  "keywords": [
+    "passport",
+    "gtfo-america",
+    "node",
+    "api",
+    "rest-api"
+  ],
+  "author": "JoeySucksAt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joeysucksat/passport-index-api/issues"
+  },
+  "homepage": "https://github.com/joeysucksat/passport-index-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
